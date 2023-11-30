@@ -5,3 +5,5 @@ ChatGPT API 하고 StableDiffusion을 사용하여
 
 페이지는 gradio를 이용하여
 간단하게 만들어보았습니다.
+
+사용도구:Python
